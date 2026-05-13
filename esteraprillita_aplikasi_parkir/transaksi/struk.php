@@ -1,0 +1,1 @@
+<h2>Struk Parkir</h2>
